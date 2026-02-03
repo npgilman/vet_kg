@@ -4,3 +4,6 @@
 [submodule "addl_resources/addl_kgs/hetionet"]
 	path = addl_resources/addl_kgs/hetionet
 	url = https://github.com/hetio/hetionet.git
+[submodule "addl_resources/addl_pipelines/TxGNN"]
+	path = addl_resources/addl_pipelines/TxGNN
+	url = https://github.com/mims-harvard/TxGNN.git
