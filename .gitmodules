@@ -1,0 +1,3 @@
+[submodule "addl_resources/addl_kgs/DRKG"]
+	path = addl_resources/addl_kgs/DRKG
+	url = https://github.com/gnn4dr/DRKG.git
