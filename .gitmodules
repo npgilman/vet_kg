@@ -1,3 +1,6 @@
 [submodule "addl_resources/addl_kgs/DRKG"]
 	path = addl_resources/addl_kgs/DRKG
 	url = https://github.com/gnn4dr/DRKG.git
+[submodule "addl_resources/addl_kgs/hetionet"]
+	path = addl_resources/addl_kgs/hetionet
+	url = https://github.com/hetio/hetionet.git
