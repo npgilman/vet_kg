@@ -5,7 +5,9 @@ This project provides a reproducible starting point to build a knowledge graph (
 
 ### Project Structure
 knowledge_graphs: scripts related to construction/integration of vet-informed knowledge graph
+
 evaluation: comparing knowledge graph performance with graph neural network
+
 addl_resources: Git Submodules pointing to additional references that are foundational 
 
 ### Quick start
