@@ -1,0 +1,13 @@
+pandas
+numpy
+rdflib
+networkx
+scikit-learn
+pykeen
+torch
+tqdm
+jupyter
+notebook
+matplotlib
+seaborn
+
